@@ -1,11 +1,14 @@
-**Project Setup and Environment:**
-* Install Libraries
-* Website Inspection
-* Scraper Development
-* Data Organization and Export
-* Utilized web scraping techniques to extract car data from Cars24,
-effectively navigating challenges such as dynamic content and request
-limits.
-* Ensured adherence to legal and ethical guidelines during data
-extraction, alongside implementing data cleaning and validation
-processes to maintain accuracy and reliability.
+**Building an Intelligent Car Recommendation System with Web Scraping, Machine Learning, and Power BI Visualization**
+This project delves into the exciting realm of car recommendation systems, where web scraping, machine learning (ML), and data visualization come together to empower users in making informed car purchase decisions. We'll embark on a journey that encompasses:
+
+**Web Scraping Cars24 Data:**
+Extracting relevant information from cars24.com, a leading online car marketplace in India.
+
+**Data Preprocessing and Feature Engineering:
+**Preparing the scraped data for ML by cleaning, transforming, and crafting informative features.
+
+**Machine Learning Model Selection and Training:**
+Choosing the most suitable ML algorithm and training it on the prepared dataset.
+
+**Power BI Visualization:**
+Creating interactive dashboards to visually represent car recommendations and insights.
